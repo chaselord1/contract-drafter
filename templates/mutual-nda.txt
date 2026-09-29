@@ -1,0 +1,43 @@
+MUTUAL NON-DISCLOSURE AGREEMENT
+
+This Mutual Non-Disclosure Agreement ("Agreement") is entered into as of [EFFECTIVE DATE] by and between [PARTY A NAME], with a principal address at [PARTY A ADDRESS] ("Party A"), and [PARTY B NAME], with a principal address at [PARTY B ADDRESS] ("Party B"), each a "Party" and together the "Parties."
+
+1. PURPOSE
+The Parties wish to explore [PURPOSE OF DISCUSSION], and in connection with that purpose each Party may disclose to the other certain confidential and proprietary information.
+
+2. DEFINITION OF CONFIDENTIAL INFORMATION
+"Confidential Information" means any non-public information disclosed by either Party, whether in writing, orally, or by inspection of materials, that is designated as confidential or that a reasonable person would understand to be confidential given the nature of the information and the circumstances of disclosure. Confidential Information does not include information that: (a) is or becomes publicly available through no fault of the receiving Party; (b) was rightfully known to the receiving Party before disclosure; (c) is rightfully received from a third party without breach of any confidentiality obligation; or (d) is independently developed without use of the disclosing Party's Confidential Information.
+
+3. OBLIGATIONS OF THE RECEIVING PARTY
+Each Party agrees to: (a) hold the other Party's Confidential Information in strict confidence; (b) use the Confidential Information solely for the Purpose described above; (c) not disclose the Confidential Information to any third party without prior written consent, except to employees, contractors, or advisors who have a need to know and are bound by confidentiality obligations at least as protective as this Agreement; and (d) protect the Confidential Information using at least the same degree of care used to protect its own confidential information, and no less than a reasonable degree of care.
+
+4. TERM
+This Agreement is effective as of the Effective Date and the confidentiality obligations survive for [CONFIDENTIALITY PERIOD] from the date of disclosure, unless earlier terminated by mutual written agreement of the Parties.
+
+5. RETURN OR DESTRUCTION OF MATERIALS
+Upon written request of the disclosing Party, the receiving Party shall promptly return or destroy all documents and materials containing Confidential Information, and certify such destruction if requested.
+
+6. NO LICENSE
+Nothing in this Agreement grants either Party any license or right, by implication or otherwise, to any patent, trade secret, copyright, or other intellectual property of the other Party.
+
+7. NO OBLIGATION TO PROCEED
+Nothing in this Agreement obligates either Party to enter into any further agreement or business relationship.
+
+8. GOVERNING LAW
+This Agreement is governed by the laws of the State of [GOVERNING LAW STATE], without regard to its conflict of laws principles.
+
+9. REMEDIES
+The Parties agree that a breach of this Agreement may cause irreparable harm for which monetary damages would be an inadequate remedy, and that the non-breaching Party is entitled to seek injunctive relief in addition to any other available remedies.
+
+10. GENERAL
+This Agreement constitutes the entire agreement between the Parties regarding its subject matter and supersedes all prior discussions on that subject. This Agreement may only be amended in writing signed by both Parties. If any provision is held unenforceable, the remaining provisions remain in full force and effect.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective Date.
+
+[PARTY A NAME]
+By: [PARTY A SIGNATORY NAME]
+Title: [PARTY A SIGNATORY TITLE]
+
+[PARTY B NAME]
+By: [PARTY B SIGNATORY NAME]
+Title: [PARTY B SIGNATORY TITLE]

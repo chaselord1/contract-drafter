@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Contract Drafter</title>
+<link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+<div id="app">
+  <header>
+    <h1>Contract Drafter</h1>
+    <p class="subtitle">Describe the contract you need, pick a template match, get an editable draft, export a PDF.</p>
+  </header>
+
+  <div id="demo-banner" class="banner hidden">
+    Demo mode: no LLM_API_KEY is set. Search uses keyword matching and drafts return the raw template. Set LLM_API_KEY in .env for real AI-generated drafts.
+  </div>
+
+  <section id="step-request" class="step">
+    <label for="request-input">What do you need?</label>
+    <textarea id="request-input" rows="3" placeholder="e.g. mutual NDA between two companies for a software pilot, California law, two-year term"></textarea>
+    <button id="search-btn">Find matching templates</button>
+  </section>
+
+  <section id="step-results" class="step hidden">
+    <h2>Closest matches</h2>
+    <ul id="results-list"></ul>
+    <button id="draft-btn" disabled>Generate draft from selected</button>
+  </section>
+
+  <section id="step-editor" class="step hidden">
+    <h2>Draft</h2>
+    <div id="toolbar">
+      <button data-cmd="bold" title="Bold"><b>B</b></button>
+      <button data-cmd="italic" title="Italic"><i>I</i></button>
+      <button data-cmd="h1" title="Heading 1">H1</button>
+      <button data-cmd="h2" title="Heading 2">H2</button>
+      <button data-cmd="bulletList" title="Bullet list">&bull; List</button>
+      <button data-cmd="orderedList" title="Numbered list">1. List</button>
+      <button data-cmd="undo" title="Undo">Undo</button>
+      <button data-cmd="redo" title="Redo">Redo</button>
+      <span class="spacer"></span>
+      <button id="export-btn">Export PDF</button>
+    </div>
+    <div id="editor"></div>
+  </section>
+
+  <div id="status" class="status"></div>
+</div>
+
+<script type="importmap">
+{
+  "imports": {
+    "@tiptap/core": "https://esm.sh/@tiptap/core@2.6.6",
+    "@tiptap/starter-kit": "https://esm.sh/@tiptap/starter-kit@2.6.6"
+  }
+}
+</script>
+<script type="module" src="/static/app.js"></script>
+</body>
+</html>

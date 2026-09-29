@@ -1,0 +1,45 @@
+INDEPENDENT CONTRACTOR AGREEMENT
+
+This Independent Contractor Agreement ("Agreement") is entered into as of [EFFECTIVE DATE] by and between [CLIENT NAME] ("Client") and [CONTRACTOR NAME] ("Contractor").
+
+1. SERVICES
+Contractor agrees to perform the following services for Client: [DESCRIPTION OF SERVICES] (the "Services"). Contractor will complete the Services by [COMPLETION DATE], unless otherwise agreed in writing.
+
+2. INDEPENDENT CONTRACTOR STATUS
+Contractor is an independent contractor, not an employee, agent, or partner of Client. Contractor is responsible for its own taxes, insurance, and benefits, and this Agreement does not create an employment relationship. Contractor has no authority to bind Client to any obligation.
+
+3. COMPENSATION
+Client agrees to pay Contractor [FEE AMOUNT] for the Services, payable [PAYMENT SCHEDULE]. Invoices are due within [PAYMENT TERMS DAYS] days of receipt unless otherwise agreed.
+
+4. EXPENSES
+Client will reimburse Contractor for reasonable pre-approved expenses incurred in performing the Services, provided Contractor submits documentation.
+
+5. OWNERSHIP OF WORK PRODUCT
+All deliverables created by Contractor specifically for Client under this Agreement are considered "work made for hire" to the extent permitted by law, and ownership transfers to Client upon full payment. Contractor retains ownership of any pre-existing tools, libraries, or materials used to perform the Services.
+
+6. CONFIDENTIALITY
+Contractor agrees to keep confidential any non-public information received from Client in connection with the Services, and not use it for any purpose outside this engagement.
+
+7. TERM AND TERMINATION
+This Agreement begins on the Effective Date and continues until the Services are completed, unless terminated earlier. Either party may terminate this Agreement with [TERMINATION NOTICE PERIOD] written notice. Client will pay for Services performed up to the date of termination.
+
+8. WARRANTIES
+Contractor represents that the Services will be performed in a professional and workmanlike manner consistent with industry standards.
+
+9. LIMITATION OF LIABILITY
+Neither party is liable to the other for indirect, incidental, or consequential damages arising from this Agreement. Each party's total liability is limited to the amounts paid under this Agreement.
+
+10. GOVERNING LAW
+This Agreement is governed by the laws of the State of [GOVERNING LAW STATE], without regard to conflict of laws principles.
+
+11. GENERAL
+This Agreement is the entire agreement between the parties regarding the Services and may only be amended in writing signed by both parties. If any provision is unenforceable, the remaining provisions remain in effect.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+[CLIENT NAME]
+By: [CLIENT SIGNATORY NAME]
+Title: [CLIENT SIGNATORY TITLE]
+
+[CONTRACTOR NAME]
+By: [CONTRACTOR SIGNATORY NAME]

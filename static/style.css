@@ -1,0 +1,164 @@
+:root {
+  --border: #d8d3c8;
+  --bg: #faf8f4;
+  --ink: #232019;
+  --accent: #7a4f2b;
+  --highlight: #fff3b0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Georgia, "Times New Roman", serif;
+  background: var(--bg);
+  color: var(--ink);
+}
+
+#app {
+  max-width: 820px;
+  margin: 0 auto;
+  padding: 32px 20px 80px;
+}
+
+header h1 {
+  margin-bottom: 4px;
+}
+
+.subtitle {
+  color: #555;
+  margin-top: 0;
+}
+
+.banner {
+  background: var(--highlight);
+  border: 1px solid #e0c95e;
+  padding: 10px 14px;
+  border-radius: 4px;
+  margin-bottom: 20px;
+  font-size: 0.95em;
+}
+
+.hidden {
+  display: none;
+}
+
+.step {
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 18px 20px;
+  margin-bottom: 20px;
+  background: #fff;
+}
+
+label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+textarea {
+  width: 100%;
+  font-family: inherit;
+  font-size: 1em;
+  padding: 10px;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  resize: vertical;
+}
+
+button {
+  font-family: inherit;
+  background: var(--accent);
+  color: #fff;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.95em;
+}
+
+button:disabled {
+  background: #b3aa9a;
+  cursor: not-allowed;
+}
+
+button:hover:not(:disabled) {
+  opacity: 0.9;
+}
+
+#search-btn, #draft-btn {
+  margin-top: 12px;
+}
+
+#results-list {
+  list-style: none;
+  padding: 0;
+}
+
+#results-list li {
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 10px 12px;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+#results-list .score {
+  margin-left: auto;
+  color: #666;
+  font-size: 0.9em;
+}
+
+#toolbar {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 12px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+#toolbar .spacer {
+  flex: 1;
+}
+
+#toolbar button {
+  background: #efe9dd;
+  color: var(--ink);
+  min-width: 36px;
+}
+
+#export-btn {
+  background: var(--accent);
+  color: #fff;
+}
+
+#editor {
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 16px;
+  min-height: 300px;
+  background: #fffdf9;
+}
+
+#editor .ProseMirror {
+  outline: none;
+}
+
+#editor mark.placeholder,
+#editor .placeholder {
+  background: var(--highlight);
+  padding: 0 2px;
+  border-radius: 2px;
+}
+
+.status {
+  margin-top: 16px;
+  color: #555;
+  font-size: 0.9em;
+  min-height: 1.2em;
+}

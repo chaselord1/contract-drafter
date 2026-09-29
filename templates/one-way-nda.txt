@@ -1,0 +1,43 @@
+ONE-WAY NON-DISCLOSURE AGREEMENT
+
+This One-Way Non-Disclosure Agreement ("Agreement") is entered into as of [EFFECTIVE DATE] by and between [DISCLOSING PARTY NAME] ("Disclosing Party") and [RECEIVING PARTY NAME] ("Receiving Party").
+
+1. PURPOSE
+The Disclosing Party intends to disclose certain confidential information to the Receiving Party in connection with [PURPOSE OF DISCLOSURE]. This Agreement sets out the terms under which that information will be protected.
+
+2. CONFIDENTIAL INFORMATION
+"Confidential Information" means any non-public technical, business, or financial information disclosed by the Disclosing Party to the Receiving Party, whether disclosed orally, in writing, or in any other form, and that is marked confidential or would reasonably be understood to be confidential.
+
+3. EXCLUSIONS
+Confidential Information does not include information that: (a) is or becomes publicly known without breach of this Agreement; (b) was already known to the Receiving Party prior to disclosure without any confidentiality obligation; (c) is received from a third party without breach of any duty of confidentiality; or (d) is independently developed by the Receiving Party without reference to the Confidential Information.
+
+4. OBLIGATIONS
+The Receiving Party agrees to: (a) use the Confidential Information only for the purpose stated above; (b) not disclose the Confidential Information to any third party without the Disclosing Party's prior written consent; (c) limit access to employees, contractors, or advisors with a legitimate need to know who are bound by confidentiality obligations at least as strict as this Agreement; and (d) take reasonable measures to protect the confidentiality of the information.
+
+5. TERM
+This Agreement begins on the Effective Date and the Receiving Party's confidentiality obligations continue for [CONFIDENTIALITY PERIOD] from the date each item of Confidential Information is disclosed.
+
+6. RETURN OF MATERIALS
+Upon the Disclosing Party's written request, the Receiving Party shall promptly return or destroy all materials containing Confidential Information.
+
+7. NO LICENSE OR OBLIGATION
+This Agreement does not grant the Receiving Party any license, right, or interest in the Confidential Information beyond what is expressly stated, and does not obligate either party to enter any further agreement.
+
+8. GOVERNING LAW
+This Agreement is governed by the laws of the State of [GOVERNING LAW STATE], without regard to conflict of laws principles.
+
+9. REMEDIES
+The Disclosing Party may suffer irreparable harm from a breach of this Agreement, and is entitled to seek injunctive relief in addition to any other remedy available at law or in equity.
+
+10. GENERAL
+This Agreement is the entire agreement between the parties on this subject and may only be modified in writing signed by both parties. If a provision is found unenforceable, the rest of the Agreement remains in effect.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+[DISCLOSING PARTY NAME]
+By: [DISCLOSING PARTY SIGNATORY NAME]
+Title: [DISCLOSING PARTY SIGNATORY TITLE]
+
+[RECEIVING PARTY NAME]
+By: [RECEIVING PARTY SIGNATORY NAME]
+Title: [RECEIVING PARTY SIGNATORY TITLE]

@@ -1,0 +1,41 @@
+SIMPLE SERVICES AGREEMENT
+
+This Services Agreement ("Agreement") is entered into as of [EFFECTIVE DATE] by and between [CLIENT NAME] ("Client") and [SERVICE PROVIDER NAME] ("Provider").
+
+1. SERVICES
+Provider agrees to perform the following services for Client: [DESCRIPTION OF SERVICES] (the "Services"), to be completed by [COMPLETION DATE].
+
+2. FEES
+Client agrees to pay Provider [FEE AMOUNT] for the Services, payable [PAYMENT SCHEDULE]. Late payments may accrue interest at [LATE FEE RATE] per month.
+
+3. TIMELINE
+Provider will begin the Services on [START DATE] and use reasonable efforts to complete them by the date above. Delays caused by Client's failure to provide needed information or materials will extend the timeline accordingly.
+
+4. REVISIONS
+Provider will make up to [NUMBER OF REVISIONS] rounds of revisions to the deliverables at no additional cost. Additional revisions may be billed at [ADDITIONAL REVISION RATE].
+
+5. OWNERSHIP
+Upon full payment, Provider assigns to Client all rights in the final deliverables created specifically for Client under this Agreement. Provider retains ownership of any pre-existing materials or tools used to create the deliverables.
+
+6. CONFIDENTIALITY
+Each party agrees to keep confidential any non-public information shared by the other party in connection with this Agreement.
+
+7. TERMINATION
+Either party may terminate this Agreement with [TERMINATION NOTICE PERIOD] written notice. Client will pay for Services performed up to the date of termination.
+
+8. LIMITATION OF LIABILITY
+Provider's total liability under this Agreement is limited to the amount paid by Client. Neither party is liable for indirect or consequential damages.
+
+9. GOVERNING LAW
+This Agreement is governed by the laws of the State of [GOVERNING LAW STATE], without regard to conflict of laws principles.
+
+10. GENERAL
+This is the entire agreement between the parties regarding the Services and may only be changed in writing signed by both parties.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+[CLIENT NAME]
+By: [CLIENT SIGNATORY NAME]
+
+[SERVICE PROVIDER NAME]
+By: [SERVICE PROVIDER SIGNATORY NAME]

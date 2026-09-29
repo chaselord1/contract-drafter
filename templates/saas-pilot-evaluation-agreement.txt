@@ -1,0 +1,46 @@
+SAAS PILOT AND EVALUATION AGREEMENT
+
+This SaaS Pilot and Evaluation Agreement ("Agreement") is entered into as of [EFFECTIVE DATE] by and between [PROVIDER NAME] ("Provider") and [CUSTOMER NAME] ("Customer").
+
+1. PURPOSE OF PILOT
+Provider agrees to give Customer access to [SOFTWARE PRODUCT NAME] (the "Software") on a trial basis so Customer can evaluate its fit for Customer's business needs, for a pilot period of [PILOT DURATION] beginning on the Effective Date (the "Pilot Period").
+
+2. ACCESS AND USE
+During the Pilot Period, Provider grants Customer a limited, non-exclusive, non-transferable right to access and use the Software solely for internal evaluation purposes, for up to [NUMBER OF USERS] users.
+
+3. FEES
+[PILOT FEE TERMS]. If Customer elects to continue using the Software after the Pilot Period, the parties will negotiate a separate subscription agreement and fee schedule.
+
+4. DATA AND SECURITY
+Provider will maintain reasonable administrative, technical, and physical safeguards to protect Customer's data submitted to the Software during the Pilot Period. Customer retains ownership of all data it submits. Provider will not use Customer's data for any purpose other than operating the Software and improving the pilot, without Customer's written consent.
+
+5. FEEDBACK
+Customer may provide feedback about the Software during the Pilot Period. Provider may use such feedback to improve the Software without obligation or compensation to Customer.
+
+6. NO WARRANTY DURING PILOT
+The Software is provided during the Pilot Period on an "as is" and "as available" basis, without warranties of any kind, to the extent permitted by law.
+
+7. CONFIDENTIALITY
+Each party agrees to keep confidential any non-public information disclosed by the other party in connection with the Pilot, including the Software's non-public features and performance.
+
+8. TERM AND TERMINATION
+This Agreement automatically ends at the conclusion of the Pilot Period unless the parties agree in writing to extend it or enter into a separate subscription agreement. Either party may terminate this Agreement earlier with [TERMINATION NOTICE PERIOD] written notice.
+
+9. LIMITATION OF LIABILITY
+Neither party is liable for indirect, incidental, or consequential damages arising from the Pilot. Provider's total liability under this Agreement is limited to [LIABILITY CAP AMOUNT].
+
+10. GOVERNING LAW
+This Agreement is governed by the laws of the State of [GOVERNING LAW STATE], without regard to conflict of laws principles.
+
+11. GENERAL
+This Agreement is the entire agreement between the parties regarding the Pilot and may only be amended in writing signed by both parties.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+[PROVIDER NAME]
+By: [PROVIDER SIGNATORY NAME]
+Title: [PROVIDER SIGNATORY TITLE]
+
+[CUSTOMER NAME]
+By: [CUSTOMER SIGNATORY NAME]
+Title: [CUSTOMER SIGNATORY TITLE]
